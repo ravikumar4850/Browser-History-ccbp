@@ -1,0 +1,56 @@
+.li-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.li-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 40px;
+}
+
+.timeAccessed {
+  color: #64748b;
+  font-size: 13px;
+  font-family: 'roboto';
+  font-weight: bold;
+  margin-right: 50px;
+}
+
+.icons {
+  width: 30px;
+  height: 30px;
+  margin-right: 20px;
+}
+
+.title {
+  color: #475569;
+  font-size: 13px;
+  font-family: 'roboto';
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.domainUrl {
+  color: #64748b;
+  font-size: 13px;
+  font-family: 'roboto';
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.btn-button {
+  background-color: transparent;
+  border-radius: 0px;
+  border-width: 0px;
+}
+
+.delete {
+  background-color: transparent;
+  width: 20px;
+}
